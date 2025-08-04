@@ -14,9 +14,14 @@ The goal of this project was to design a visually appealing and accessible webpa
 - Visual hierarchy using headings and styled sections
 - Clean and readable menu presentation
 
-## 🔗 Live Demo
+## 📁 Project Structure
 
-🌐 [View Live on GitHub Pages](https://joshilsabraham.github.io/cafe-menu/)
+```
+cafe-menu/
+├── index.html        # The main HTML page
+├── styles.css        # CSS styling file
+└── README.md         # Project documentation
+```
 
 ## 🛠️ Tech Stack
 
@@ -28,15 +33,6 @@ The goal of this project was to design a visually appealing and accessible webpa
 This project was submitted for the [freeCodeCamp](https://www.freecodecamp.org/)  
 **Responsive Web Design Certification** – *Build a Cafe Menu* project.
 
-## 📁 Project Structure
-
-```
-cafe-menu/
-├── index.html        # The main HTML page
-├── styles.css        # CSS styling file
-└── README.md         # Project documentation
-```
-
-## 👨‍💻 Author
+---
 
 Made with ❤️ by [Joshil S Abraham](https://github.com/joshilsabraham)
